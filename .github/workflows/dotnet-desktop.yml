@@ -111,4 +111,4 @@ jobs:
       uses: actions/upload-artifact@v3
       with:
         name: MSIX Package
-        path: SimuladorPagamentoPix.Package\AppPackages\
+        path: SimuladorPagamentoPix.Package\
